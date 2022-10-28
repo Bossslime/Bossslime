@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Bossslime
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="center" src="https://bossslime.com/assets/ezgif.com-gif-maker.gif" />
+
+## Links
+- [Website](https://bossslime.com/)
+- [YouTube](https://www.youtube.com/c/bossslime)
+- [Twitter](https://twitter.com/Bossslimeplayz)
+- [Twitch](https://www.twitch.tv/bosssslime)
 
 <!---
 Bossslime/Bossslime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
