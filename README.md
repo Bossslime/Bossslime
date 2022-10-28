@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="width: 20%; animation-name: floating; animation-duration: 3s; animation-iteration-count: infinite; animation-timing-function: ease-in-out; transition: 0.5;">
   <img src="https://bossslime.com/assets/ezgif.com-gif-maker.gif" />
 </p>
 
