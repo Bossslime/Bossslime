@@ -1,4 +1,6 @@
-<img align="center" src="https://bossslime.com/assets/ezgif.com-gif-maker.gif" />
+<p align="center">
+  <img src="https://bossslime.com/assets/ezgif.com-gif-maker.gif" />
+</p>
 
 ## Links
 - [Website](https://bossslime.com/)
