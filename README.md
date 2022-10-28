@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://bossslime.com/assets/ezgif.com-gif-maker.gif" width="50%" /> </p>
+<p align="center"> <img src="https://bossslime.com/assets/ezgif.com-gif-maker.gif" width="30%" /> </p>
 
 ## Links
 - [Website](https://bossslime.com/)
