@@ -7,35 +7,32 @@
 | Type | Provider | Status |
 | :--- | :------- | :----- |
 | Java | IT Specialists | Obtained |
+| JavaScript | IT Specialists | Obtained |
+| English for IT | CSB | Obtained |
 | Customer Service and Sales | NRF Foundation | Obtained |
 | Java | Oracle | In Progress |
-| CyberSecurity | TBD | In Progress |
-| PHP | TBD | In Progress |
 
-# Java Experience
-This is a list of my experiences with Java and the many API's I have utilized with it.
+I like to code. I mainly use JavaScript and HTML/CSS for projects, but will use Java often too. I also know how to use C, and have make a unity game or two in C#, though it would take a minute to get back into them. 
 
-### Minecraft
-I have a lot of experience with the bukkit and spigot API's. Mainly orienting in the 1.8 versions but I also have experience with multi version support.
+ # Minecraft Accomplishments
+ I have made a npc/bot library that has pathfinding and npc control that all works in 1.8, same with a bossbar library and a configurable launchpad that takes in an array of velocities and will launch a player in a custom pattern.
+ 
+ # JavaScript Accomplishments
+ I have made scrapers and webapps, I made one webapp that control a bunch of unity games from a central panel. Plus A smart hub with an alarm system for my room, that also controls my light bulbs.
+ 
+ # C Accomplishments
+ I dont have any C projects, I need ideas so I can prove I know it. oH here is an example:
+ 
+ ```C
+ char hW[] = "Hello World!\n";
+ 
+ printf("%s", hW);
+```
+xD
 
+# Database Knowledge
+I know how to use MySQL and MongoDB mainly, I have used MySQL with Java and Mongo with both Java nad JavaScript
 
-### Discord
-I have good experrience with the JDA Discord API and the development of Discord bots.
-
-
-### MySQL
-I have some experience connecting to MySQL from java applications along with collecting and storing data.
-
-
-### MongoDB
-I have little experience with MongoDB but I do know he basics such as connecting and grabbing plus storing simple info.
-
-
-
-
-
-# HTML/CSS Experience
-My only experience with HTML/CSS was with the making of [my website](https://bossslime.com), I can make simple website designs but my knowledge isnt too extensive.
 
 # Partners
 
@@ -47,8 +44,3 @@ My only experience with HTML/CSS was with the making of [my website](https://bos
 - [YouTube](https://www.youtube.com/c/bossslime)
 - [Twitter](https://twitter.com/Bossslimeplayz)
 - [Twitch](https://www.twitch.tv/bosssslime)
-
-<!---
-Bossslime/Bossslime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
