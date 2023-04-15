@@ -13,20 +13,20 @@
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="100" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="100" alt="c logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" width="100" alt="c logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" width="100" alt="express logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" width="100" alt="jquery logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" width="100" alt="mongodb logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width="100" alt="mysql logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" width="100" alt="raspberry pi logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/socketio/socketio-original.svg" width="100" alt="socket.io logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" width="100" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" alt="javascript logo" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" alt="java logo" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" alt="html5 logo" title="HTML 5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" alt="css3 logo" title="CSS 3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="100" alt="csharp logo" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="100" alt="c logo" title="C" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" width="100" alt="vuejs logo" title="VueJS" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" width="100" alt="express logo" title="Express" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" width="100" alt="jquery logo" title="JQuery" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" width="100" alt="mongodb logo" title="MongoDB" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width="100" alt="mysql logo" title="MySQL" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" width="100" alt="raspberry pi logo" title="Raspberry PI" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/socketio/socketio-original.svg" width="100" alt="socket.io logo" title="Socket.IO" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" width="100" alt="ubuntu logo" title="Ubuntu" />
   
 </div>
 
@@ -63,6 +63,8 @@ xD
 
 # Database Knowledge
 I know how to use MySQL and MongoDB mainly, I have used MySQL with Java and Mongo with both Java nad JavaScript
+  <br>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
 
 # Partners
