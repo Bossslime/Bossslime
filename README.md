@@ -2,6 +2,24 @@
   <img src="https://bossslime.com/assets/ezgif.com-gif-maker.gif" width="30%" />
 </p>
 
+<div align="center" style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=Bossslime" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=Bossslime" height="150" alt="languages graph"  />
+</div>
+<div align="center">
+  <img src="https://discord.c99.nl/widget/theme-2/369145324637257728.png"/>
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="c logo"  />
+</div>
+
 # Certifications
 
 | Type | Provider | Status |
@@ -32,13 +50,6 @@ xD
 
 # Database Knowledge
 I know how to use MySQL and MongoDB mainly, I have used MySQL with Java and Mongo with both Java nad JavaScript
-<div align="center" style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=Bossslime" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=Bossslime" height="150" alt="languages graph"  />
-</div>
-<div align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/369145324637257728.png"/>
-</div>
 
 
 # Partners
