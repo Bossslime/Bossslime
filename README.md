@@ -33,7 +33,7 @@ xD
 # Database Knowledge
 I know how to use MySQL and MongoDB mainly, I have used MySQL with Java and Mongo with both Java nad JavaScript
 <div align="center" style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/apishow_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=Bossslime" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=Bossslime" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=Bossslime" height="150" alt="languages graph"  />
 </div>
 <div align="center">
