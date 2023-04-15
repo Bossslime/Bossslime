@@ -20,6 +20,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="100" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="100" alt="c logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" width="100" alt="c logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" width="100" alt="express logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" width="100" alt="jquery logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" width="100" alt="mongodb logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width="100" alt="mysql logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" width="100" alt="raspberry pi logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/socketio/socketio-original.svg" width="100" alt="socket.io logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" width="100" alt="ubuntu logo"  />
+  
 </div>
 
 <div align="center" style="display: flex; flex-direction: column;">
