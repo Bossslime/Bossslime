@@ -33,10 +33,10 @@ xD
 # Database Knowledge
 I know how to use MySQL and MongoDB mainly, I have used MySQL with Java and Mongo with both Java nad JavaScript
 <div align="center">
-  ![Bossslime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bossslime&count_private=true&theme=merko)
+  [Bossslime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bossslime&count_private=true&theme=merko)
 </div>
 <div align="center">
-  https://discord.c99.nl/widget/theme-2/369145324637257728.png
+  <img src="https://discord.c99.nl/widget/theme-2/369145324637257728.png"/>
 </div>
 
 
