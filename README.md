@@ -40,6 +40,7 @@
 | JavaScript | IT Specialists | Obtained |
 | HTML/CSS | IT Specialists | Obtained |
 | English for IT | CSB | Obtained |
+| Unity Certified User: Programmer | Unity Technologies | Obtained |
 | Customer Service and Sales | NRF Foundation | Obtained |
 | Java | Oracle | In Progress |
 
