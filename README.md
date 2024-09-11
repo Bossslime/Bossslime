@@ -18,16 +18,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" alt="html5 logo" title="HTML 5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" alt="css3 logo" title="CSS 3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="100" alt="csharp logo" title="C#" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" width="100" alt="vuejs logo" title="VueJS" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" width="100" alt="express logo" title="Express" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" width="100" alt="jquery logo" title="JQuery" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" width="100" alt="mongodb logo" title="MongoDB" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width="100" alt="mysql logo" title="MySQL" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" width="100" alt="raspberry pi logo" title="Raspberry PI" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/socketio/socketio-original.svg" width="100" alt="socket.io logo" title="Socket.IO" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" width="100" alt="vuejs logo" title="VueJS" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/solidjs/solidjs-original.svg" width="100" alt="solidjs logo" title="SolidJS" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" width="100" alt="express logo" title="Express" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jquery/jquery-original.svg" width="100" alt="jquery logo" title="JQuery" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" width="100" alt="mongodb logo" title="MongoDB" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" width="100" alt="mysql logo" title="MySQL" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" width="100" alt="postgresql logo" title="PostgreSQL" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/raspberrypi/raspberrypi-original.svg" width="100" alt="raspberry pi logo" title="Raspberry PI" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/socketio/socketio-original.svg" width="100" alt="socket.io logo" title="Socket.IO" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" width="100" alt="ubuntu logo" title="Ubuntu" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/electron/electron-original.svg" width="100" alt="ubuntu logo" title="ElectronJS" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jetbrains/jetbrains-original.svg" width="100" alt="jetbrains logo" title="Jetbrains" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/electron/electron-original.svg" width="100" alt="ubuntu logo" title="ElectronJS" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jetbrains/jetbrains-original.svg" width="100" alt="jetbrains logo" title="Jetbrains" />
 </div>
 
 <div align="center" style="display: flex; flex-direction: column;">
