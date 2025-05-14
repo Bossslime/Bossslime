@@ -70,8 +70,6 @@
  in it every now then. I mainly use it for discord bots and minecraft plugins. The reason I still use it for discord bots instead of using JavaScript is because I like the way the Java API is setup, and my coding 
  style makes the code much easier to navigate for me.
 
- I have worked with nms in minecraft but I never really got past simple pvp bots (Yeah I just said that, they arent really that hard)
-
  # Databases
  Most of my database knowledge is with MySQL, I have gotten good at structuring databases in MySQL. I have worked with MongoDB in the past, I understand the structure and setup but I never really learned any of the 
  commands. I have maybe one project that I did for it with Minecraft a while ago.
