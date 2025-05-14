@@ -46,7 +46,6 @@
 | Unity Certified User: Programmer | Unity Technologies | Obtained |
 | Entrepreneurship and Small Business v.2 | ESB | Obtained |
 | Customer Service and Sales | NRF Foundation | Obtained |
-| Java | Oracle | In Progress |
 
  I like coding, I am good to it... But it is never good back. Oh well, I cant let that get to me. Oh i do webapps and backend algorithms. I think they call that fullstack or sum
 
@@ -84,10 +83,6 @@
   <br>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
-
-# Partners
-
-- [@GalaxyEaterGR](https://github.com/GalaxyEaterGR)
 
 
 ## Links
